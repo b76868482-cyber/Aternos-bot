@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "StromSmp.play.hosting",
-    "port": ,
+    "port": 30676,
     "version": "1.20.1",
     "try-creative": false
   },
