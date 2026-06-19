@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "STORM_SMP_S1.aternos.me",
-    "port": 24153,
+    "ip": "StromSmp.play.hosting",
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
