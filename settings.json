@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StromSmp.play.hosting",
-    "port": 30676,
+    "ip": "stormsmpxs2.minefort.com",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
