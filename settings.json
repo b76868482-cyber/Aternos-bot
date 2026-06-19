@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1",
-    "port": 40821,
+    "ip": "StromSmp.play.hosting",
+    "port": 30676,
     "version": "1.20.1",
     "try-creative": false
   },
